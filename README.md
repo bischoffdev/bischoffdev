@@ -11,3 +11,5 @@ My new book __"Writing API Tests with Karate"__ is now published!
 Order here: [https://www.amazon.com/-/de/dp/B0C1C9TNVH/ref=sr_1_1](https://www.amazon.com/-/de/dp/B0C1C9TNVH/ref=sr_1_1)
 
 <a rel="me" href="https://hachyderm.io/@bischoffdev"/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benjamin-bischoff/)
